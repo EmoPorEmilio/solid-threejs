@@ -1,9 +1,7 @@
+body {
+  margin: 0 auto;
+  background-color: black;
+}
 #root {
   margin: 0 auto;
-  padding: 2rem;
-}
-
-#main_canvas {
-  width: 512px;
-  height: 512px;
 }
