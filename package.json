@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/three": "^0.165.0",
+    "cannon-es": "^0.20.0",
     "solid-js": "^1.8.17",
     "three": "^0.165.0"
   },
